@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B3B2E,14532D&height=130&section=header&text=Tao%20Han%20%C2%B7%20%E9%9F%A9%E6%B6%9B&fontSize=40&fontAlignY=30&desc=Bio%20%C3%97%20AI%20%C2%B7%20Reproducible%20by%20default&descAlignY=55&descSize=17&fontColor=ffffff" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532D,22C55E&height=130&section=header&text=Tao%20Han%20%C2%B7%20%E9%9F%A9%E6%B6%9B&fontSize=40&fontAlignY=30&desc=Bio%20%C3%97%20AI%20%C2%B7%20Reproducible%20by%20default&descAlignY=55&descSize=17&fontColor=ffffff" width="100%" alt="Tao Han · Bio × AI · Reproducible by default"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg" />
+  <img src="./banner-light.svg" width="100%" alt="Tao Han · Bio × AI · Reproducible by default"/>
 </picture>
 
 <p align="center">
@@ -55,6 +55,6 @@
 📬 bohuyeshan@163.com　·　bohuyeshan@gmail.com
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B3B2E,14532D&height=90&section=footer&fontColor=ffffff" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532D,22C55E&height=90&section=footer" width="100%" alt="footer"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./footer-dark.svg" />
+  <img src="./footer-light.svg" width="100%" alt="footer"/>
 </picture>
