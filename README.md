@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532D,16A34A&height=130&section=header&text=Tao%20Han%20%C2%B7%20%E9%9F%A9%E6%B6%9B&fontSize=40&fontAlignY=30&desc=Bio%20%C3%97%20AI%20%C2%B7%20Reproducible%20by%20default&descAlignY=55&descSize=17" width="100%" alt="header"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B3B2E,14532D&height=130&section=header&text=Tao%20Han%20%C2%B7%20%E9%9F%A9%E6%B6%9B&fontSize=40&fontAlignY=30&desc=Bio%20%C3%97%20AI%20%C2%B7%20Reproducible%20by%20default&descAlignY=55&descSize=17&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532D,22C55E&height=130&section=header&text=Tao%20Han%20%C2%B7%20%E9%9F%A9%E6%B6%9B&fontSize=40&fontAlignY=30&desc=Bio%20%C3%97%20AI%20%C2%B7%20Reproducible%20by%20default&descAlignY=55&descSize=17&fontColor=ffffff" width="100%" alt="Tao Han · Bio × AI · Reproducible by default"/>
+</picture>
 
 <p align="center">
   <a href="https://bohuyeshan.top"><img src="https://img.shields.io/badge/blog-bohuyeshan.top-14532D?style=flat-square" alt="blog"/></a>
@@ -6,7 +9,7 @@
   <a href="https://orcid.org/0009-0002-8426-0610"><img src="https://img.shields.io/badge/ORCID-0009--0002--8426--0610-A6CE39?style=flat-square" alt="ORCID"/></a>
 </p>
 
-**云南农业大学 · 生物技术 · 2027 届本科**　定位：**懂技术、能改进技术的技术使用者与开发者**——实验执行 → 数据整理 → 生信分析 → 工程化交付全链路。
+**懂技术、能改进技术的技术使用者与开发者**——实验执行 → 数据整理 → 生信分析 → 工程化交付全链路；Bio × AI 交叉，交付以**可复现为默认**。
 
 > 🧭 **AI / 背调入口**：https://bohuyeshan.top/llms.txt （口径唯一来源：Agent **19 = 8 主编排 + 11 专家** · 生信技能 **617 / 87 类** · 全部核验锚点）
 
@@ -14,8 +17,9 @@
 
 | 仓库 | 一句话 | 硬证据 |
 |---|---|---|
-| [openagent-labforge-bio](https://github.com/BOHUYESHAN-APB/openagent-labforge-bio) | OpenCode **Agent Harness 层**：权限分层 · 计划执行 · 会话检查点 · MCP · 生信/计算化学编排 | 19 Agents（8+11，`constants.ts`）；617 bioSkills |
+| [linxira-zeta](https://github.com/Linxira-OS/linxira-zeta)（Linxira-OS） | **Linxira Zeta**：终端 AI 编码代理发行版（Bun + Rust · OMP mainline） | v1.1.15 · [官网](https://linxira-os.github.io/zeta/) · 15+ 模型提供商 |
 | [linxira-bio-sdk](https://github.com/Linxira-OS/linxira-bio-sdk)（Linxira-OS） | **Linxira Bio SDK**：本地优先生信平台（Rust 引擎 + GUI/CLI） | 112 项能力 · [可复现性基准报告](https://linxira-os.github.io/zh/blog/bio-sdk-reproducibility-benchmark/)（salmon TPM r=1.000000） |
+| [openagent-labforge-bio](https://github.com/BOHUYESHAN-APB/openagent-labforge-bio) | OpenCode **Agent Harness 层**：权限分层 · 计划执行 · 会话检查点 · MCP · 生信/计算化学编排 | 19 Agents（8+11，`constants.ts`）；617 bioSkills |
 | [CNN-MicroAI-Colony](https://github.com/BOHUYESHAN-APB/CNN-MicroAI-Colony) | 菌落检测 · 分类计数 · 抑菌圈分析多端原型 | 发明专利第一发明人 202510091154.4（实审中） |
 | [Buckwheat-seed-quality](https://github.com/BOHUYESHAN-APB/Buckwheat-seed-quality) | 荞麦籽粒检测与多端推理 | 树莓派 5：NCNN 307ms vs ONNX 561ms |
 | [N-T-AI](https://github.com/BOHUYESHAN-APB/N-T-AI) | Flutter + FastAPI 全栈 AI 应用 | Python 后端 1.2MB+ · websockets · Docker |
@@ -40,11 +44,6 @@
 ## 📝 最新博客
 
 <!-- BLOG-POST-LIST:START -->
-- [从 2.62 TB 到 5,120 token：蛋白质模型的部署阶梯](https://bohuyeshan.top/2026/09/21/2026-09-21-01-protein-models-in-your-pocket/)
-- [高校分成三类之后，第一学历还刷人吗](https://bohuyeshan.top/2026/09/21/2026-09-21-02-university-classification-first-degree/)
-- [谷歌都下场了：扩散语言模型的四倍速与六倍错](https://bohuyeshan.top/2026/09/21/2026-09-21-03-diffusion-gemma-tool-calling/)
-- [考完 NCRE 三级：工具链脱节、伪机考与软考的替代路径](https://bohuyeshan.top/2026/09/20/2026-09-20-01-ncre-level3-toolchain-disconnect/)
-- [生物 AI 大登陆：巨头、机器人与生物人的位置账](https://bohuyeshan.top/2026/09/18/2026-09-18-01-bio-ai-landing-position/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧭 导航
@@ -55,4 +54,7 @@
 
 📬 bohuyeshan@163.com　·　bohuyeshan@gmail.com
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532D,16A34A&height=90&section=footer" width="100%" alt="footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B3B2E,14532D&height=90&section=footer&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532D,22C55E&height=90&section=footer" width="100%" alt="footer"/>
+</picture>
