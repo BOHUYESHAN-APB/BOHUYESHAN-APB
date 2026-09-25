@@ -44,11 +44,11 @@
 ## 📝 Latest blog (中文)
 
 <!-- BLOG-POST-LIST:START -->
+- [通道正在逐段关闭：一场发生在所有人身边的静默换轨](https://bohuyeshan.top/2026/09/24/2026-09-24-01-the-closing-channel/)
+- [评价体系的重置现场：一场关于硕士、AI 与「本科+AI」的讨论回溯](https://bohuyeshan.top/2026/09/24/2026-09-24-02-evaluation-reset-discussion/)
 - [从 2.62 TB 到 5,120 token：蛋白质模型的部署阶梯](https://bohuyeshan.top/2026/09/21/2026-09-21-01-protein-models-in-your-pocket/)
 - [高校分成三类之后，第一学历还刷人吗](https://bohuyeshan.top/2026/09/21/2026-09-21-02-university-classification-first-degree/)
 - [谷歌都下场了：扩散语言模型的四倍速与六倍错](https://bohuyeshan.top/2026/09/21/2026-09-21-03-diffusion-gemma-tool-calling/)
-- [考完 NCRE 三级：工具链脱节、伪机考与软考的替代路径](https://bohuyeshan.top/2026/09/20/2026-09-20-01-ncre-level3-toolchain-disconnect/)
-- [生物 AI 大登陆：巨头、机器人与生物人的位置账](https://bohuyeshan.top/2026/09/18/2026-09-18-01-bio-ai-landing-position/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧭 Links
