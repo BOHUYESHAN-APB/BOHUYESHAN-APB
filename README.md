@@ -44,11 +44,11 @@
 ## 📝 Latest blog (中文)
 
 <!-- BLOG-POST-LIST:START -->
+- [学历不再替你做证明之后：怎么用作品和留痕，分别证明单兵作战与团队作战](https://bohuyeshan.top/2026/10/03/2026-10-03-01-solo-and-team-capability-proof/)
 - [一个本地优先生信 SDK 的两轮独立验证：从逐位复现到跨厂商 GPU](https://bohuyeshan.top/2026/10/02/2026-10-02-01-bio-sdk-two-rounds-independent-validation/)
 - [学历话题里的九种畸变：真实基数、群体归因与&quot;以偏概全&quot;是怎么被生产出来的](https://bohuyeshan.top/2026/10/02/2026-10-02-02-four-distortions-in-credential-discourse/)
 - [从学位阶梯到发现闭环：AI 之后，本科、硕士与博士如何重新分层](https://bohuyeshan.top/2026/09/25/2026-09-25-01-discovery-loop-after-ai/)
 - [通道正在逐段关闭：一场发生在所有人身边的静默换轨](https://bohuyeshan.top/2026/09/24/2026-09-24-01-the-closing-channel/)
-- [评价体系的重置现场：一场关于硕士、AI 与「本科+AI」的讨论回溯](https://bohuyeshan.top/2026/09/24/2026-09-24-02-evaluation-reset-discussion/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧭 Links
