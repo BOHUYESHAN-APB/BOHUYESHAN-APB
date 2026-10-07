@@ -44,11 +44,11 @@
 ## 📝 Latest blog (中文)
 
 <!-- BLOG-POST-LIST:START -->
+- [水位线之下：文凭溢价变小之后，什么在变大](https://bohuyeshan.top/2026/10/06/2026-10-06-01-below-the-waterline/)
+- [时间容器的会计学：两个考试链个案的复盘](https://bohuyeshan.top/2026/10/06/2026-10-06-03-time-container-accounting/)
+- [向往的死亡：从品牌到文凭，同一场清算](https://bohuyeshan.top/2026/10/06/2026-10-06-04-death-of-aspiration/)
 - [学历不再替你做证明之后：怎么用作品和留痕，分别证明单兵作战与团队作战](https://bohuyeshan.top/2026/10/03/2026-10-03-01-solo-and-team-capability-proof/)
 - [一个本地优先生信 SDK 的两轮独立验证：从逐位复现到跨厂商 GPU](https://bohuyeshan.top/2026/10/02/2026-10-02-01-bio-sdk-two-rounds-independent-validation/)
-- [学历话题里的九种畸变：真实基数、群体归因与&quot;以偏概全&quot;是怎么被生产出来的](https://bohuyeshan.top/2026/10/02/2026-10-02-02-four-distortions-in-credential-discourse/)
-- [从学位阶梯到发现闭环：AI 之后，本科、硕士与博士如何重新分层](https://bohuyeshan.top/2026/09/25/2026-09-25-01-discovery-loop-after-ai/)
-- [通道正在逐段关闭：一场发生在所有人身边的静默换轨](https://bohuyeshan.top/2026/09/24/2026-09-24-01-the-closing-channel/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧭 Links
