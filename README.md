@@ -44,11 +44,11 @@
 ## 📝 Latest blog (中文)
 
 <!-- BLOG-POST-LIST:START -->
-- [光遗传学拿了诺奖：它与 AI 的硬连接，是因果数据](https://bohuyeshan.top/2026/10/07/2026-10-07-01-nobel-optogenetics-ai-bioinf/)
-- [一个导师带五十个人：课题组金字塔、复制粘贴科研与 AI 的进场](https://bohuyeshan.top/2026/10/07/2026-10-07-02-lab-pyramid-and-ai/)
-- [Software is over?：一周重造 Adobe 的现场记录](https://bohuyeshan.top/2026/10/07/2026-10-07-03-artcraft-software-is-over/)
-- [水位线之下：文凭溢价变小之后，什么在变大](https://bohuyeshan.top/2026/10/06/2026-10-06-01-below-the-waterline/)
-- [时间容器的会计学：两个考试链个案的复盘](https://bohuyeshan.top/2026/10/06/2026-10-06-03-time-container-accounting/)
+- [不做一沓脚本：Linxira Bio SDK 的设计取舍与边界](https://bohuyeshan.top/2026/10/11/2026-10-11-01-linxira-bio-sdk-design-tradeoffs/)
+- [何为 FDE：五个分量、九个阶段与一条判定线](https://bohuyeshan.top/2026/10/10/2026-10-10-01-what-is-fde-five-components-and-nine-stages/)
+- [四种做生物计算的人：回流落在哪一层](https://bohuyeshan.top/2026/10/10/2026-10-10-02-four-bio-roles-and-the-return-loop/)
+- [神之一手之前，先收棋谱：模型厂商为什么给学生白送额度](https://bohuyeshan.top/2026/10/08/2026-10-08-01-free-tier-kifu/)
+- [把藻的眼睛装进青蛙蛋：光遗传学两篇诺奖论文的实验拆解](https://bohuyeshan.top/2026/10/08/2026-10-08-02-optogenetics-papers-dissection/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧭 Links
