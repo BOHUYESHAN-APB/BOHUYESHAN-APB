@@ -44,11 +44,11 @@
 ## 📝 Latest blog (中文)
 
 <!-- BLOG-POST-LIST:START -->
+- [理解从来不是用药的前置条件：先把陶哲轩的问题读对](https://bohuyeshan.top/2026/10/14/2026-10-14-01-tao-cancer-thought-experiment/)
+- [通过验证，还是钻过验证：当优化器比检查点聪明](https://bohuyeshan.top/2026/10/14/2026-10-14-02-pass-or-game-the-trial/)
+- [他们抵制的不是 AI：两份声明、722 篇论文与一道限流令](https://bohuyeshan.top/2026/10/14/2026-10-14-03-not-resisting-ai/)
 - [不做一沓脚本：Linxira Bio SDK 的设计取舍与边界](https://bohuyeshan.top/2026/10/11/2026-10-11-01-linxira-bio-sdk-design-tradeoffs/)
 - [何为 FDE：五个分量、九个阶段与一条判定线](https://bohuyeshan.top/2026/10/10/2026-10-10-01-what-is-fde-five-components-and-nine-stages/)
-- [四种做生物计算的人：回流落在哪一层](https://bohuyeshan.top/2026/10/10/2026-10-10-02-four-bio-roles-and-the-return-loop/)
-- [神之一手之前，先收棋谱：模型厂商为什么给学生白送额度](https://bohuyeshan.top/2026/10/08/2026-10-08-01-free-tier-kifu/)
-- [把藻的眼睛装进青蛙蛋：光遗传学两篇诺奖论文的实验拆解](https://bohuyeshan.top/2026/10/08/2026-10-08-02-optogenetics-papers-dissection/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧭 Links
