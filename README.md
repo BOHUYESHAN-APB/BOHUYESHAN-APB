@@ -44,11 +44,11 @@
 ## 📝 Latest blog (中文)
 
 <!-- BLOG-POST-LIST:START -->
+- [越标准越便宜：Flash 模型买走了工程的一半](https://bohuyeshan.top/2026/10/18/2026-10-18-01-flash-and-the-two-halves-of-engineering/)
+- [这笔账转给了谁：筛选成本的五次搬家](https://bohuyeshan.top/2026/10/18/2026-10-18-02-who-gets-the-bill/)
 - [理解从来不是用药的前置条件：先把陶哲轩的问题读对](https://bohuyeshan.top/2026/10/14/2026-10-14-01-tao-cancer-thought-experiment/)
 - [通过验证，还是钻过验证：当优化器比检查点聪明](https://bohuyeshan.top/2026/10/14/2026-10-14-02-pass-or-game-the-trial/)
 - [他们抵制的不是 AI：两份声明、722 篇论文与一道限流令](https://bohuyeshan.top/2026/10/14/2026-10-14-03-not-resisting-ai/)
-- [不做一沓脚本：Linxira Bio SDK 的设计取舍与边界](https://bohuyeshan.top/2026/10/11/2026-10-11-01-linxira-bio-sdk-design-tradeoffs/)
-- [何为 FDE：五个分量、九个阶段与一条判定线](https://bohuyeshan.top/2026/10/10/2026-10-10-01-what-is-fde-five-components-and-nine-stages/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧭 Links
