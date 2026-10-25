@@ -44,11 +44,11 @@
 ## 📝 Latest blog (中文)
 
 <!-- BLOG-POST-LIST:START -->
+- [缓冲期的账单：保的是在岗的人，压的是还没进场的人](https://bohuyeshan.top/2026/10/24/2026-10-24-01-who-pays-for-the-buffer/)
+- [评论区变成鱼塘的这一周：它们不缺一百万上下文，缺的是在乎](https://bohuyeshan.top/2026/10/24/2026-10-24-02-cyber-fish-farm/)
 - [哲学思考：智能的尺度与未知](https://bohuyeshan.top/2026/10/21/2026-10-21-01-nt-ai-manifesto/)
 - [三条队都在变短：缩的是位子，不是人](https://bohuyeshan.top/2026/10/19/2026-10-19-01-three-queues-getting-shorter/)
 - [中间层：四条队挤向同一个口子，企业却在喊缺人](https://bohuyeshan.top/2026/10/19/2026-10-19-02-the-missing-middle/)
-- [没人告诉你：就业指导课为什么只能是水课](https://bohuyeshan.top/2026/10/19/2026-10-19-03-nobody-tells-you/)
-- [越标准越便宜：Flash 模型买走了工程的一半](https://bohuyeshan.top/2026/10/18/2026-10-18-01-flash-and-the-two-halves-of-engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧭 Links
