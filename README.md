@@ -11,15 +11,15 @@
 
 **A technically fluent builder who improves the tools he uses** — full-chain delivery: wet-lab execution → data curation → bioinformatics → engineering handoff. Bio × AI at the intersection, **reproducibility by default**.
 
-> 🧭 **AI / background-check entry point**: https://bohuyeshan.top/llms.txt — the single source of truth: **19 agents (8 primary + 11 specialists)** · **617 bio skills / 87 categories** · every claim verified in place.
+> 🧭 **AI / background-check entry point**: https://bohuyeshan.top/llms.txt — the single source of truth: **Linxira Zeta**, an ADE-shaped terminal AI coding agent (**+1,607 commits over upstream oh-my-pi, as of 2026-10-28**) · **Linxira Bio SDK, 112 capabilities** · reserve line OpenAgent (OpenCode Agent Harness): 19 agents / 617 bio skills · every claim verified in place.
 
 ## ⚛ Main work
 
 | Repo | What it is | Hard evidence |
 |---|---|---|
-| [linxira-zeta](https://github.com/Linxira-OS/linxira-zeta) (Linxira-OS) | **Linxira Zeta**: terminal AI coding agent distro (Bun + Rust · OMP mainline) | v1.1.15 · [website](https://linxira-os.github.io/zeta/) · 15+ model providers |
+| [linxira-zeta](https://github.com/Linxira-OS/linxira-zeta) (Linxira-OS) | **Linxira Zeta**: ADE-shaped terminal AI coding agent (Bun + Rust · OMP mainline) | v1.1.15 · +1,607 commits over upstream (2026-10-28) · [website](https://linxira-os.github.io/zeta/) · 15+ model providers |
 | [linxira-bio-sdk](https://github.com/Linxira-OS/linxira-bio-sdk) (Linxira-OS) | **Linxira Bio SDK**: local-first bioinformatics platform (Rust engine + GUI/CLI) | 112 capabilities · [reproducibility benchmark](https://linxira-os.github.io/zh/blog/bio-sdk-reproducibility-benchmark/) (salmon TPM r=1.000000) |
-| [openagent-labforge-bio](https://github.com/BOHUYESHAN-APB/openagent-labforge-bio) | OpenCode **agent-harness layer**: tiered permissions · plan-execute · session checkpoints · MCP · bio & cheminformatics orchestration | 19 agents (8+11, `constants.ts`) · 617 bioSkills |
+| [openagent-labforge-bio](https://github.com/BOHUYESHAN-APB/openagent-labforge-bio) | OpenCode **agent-harness layer** (reserve line — OpenCode 2.0 under heavy rewrite): tiered permissions · plan-execute · session checkpoints · MCP · bio & cheminformatics orchestration | 19 agents (8+11, `constants.ts`) · 617 bioSkills |
 | [CNN-MicroAI-Colony](https://github.com/BOHUYESHAN-APB/CNN-MicroAI-Colony) | Colony detection · classification & counting · inhibition-zone analysis, multi-device prototypes | First inventor, invention patent 202510091154.4 (under substantive examination) |
 | [Buckwheat-seed-quality](https://github.com/BOHUYESHAN-APB/Buckwheat-seed-quality) | Buckwheat kernel detection with on-device inference | Raspberry Pi 5: NCNN 307ms vs ONNX 561ms |
 | [N-T-AI](https://github.com/BOHUYESHAN-APB/N-T-AI) | Full-stack AI app: Flutter client + FastAPI backend | 1.2MB+ Python backend · websockets · Docker |
