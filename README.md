@@ -42,7 +42,7 @@
 Every number on my resume maps to a file in a public repo:
 
 - **Zeta, 10 releases** → releases page, tags v1.3.0 → v1.4.6
-- **Bio SDK, 132 capabilities** → `catalog.json` in linxira-bio-sdk
+- **Bio SDK, 132 capabilities** → `capabilities/catalog.json` in linxira-bio-sdk
 - **N-T-AI RAG + memory** → `backend/app/services/rag_service.py`
 - **Paper** → DOI 10.3390/ijms27135740
 - **Patent** → 202510091154.4, first inventor
