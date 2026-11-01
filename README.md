@@ -4,21 +4,17 @@
 </picture>
 
 <p align="center">
-  <a href="https://bohuyeshan.top"><img src="https://img.shields.io/badge/blog-bohuyeshan.top-14532D?style=flat-square" alt="blog"/></a>
-  <a href="https://bohuyeshan.top/llms.txt"><img src="https://img.shields.io/badge/AI%20entry-llms.txt-B45309?style=flat-square" alt="llms.txt"/></a>
   <a href="https://orcid.org/0009-0002-8426-0610"><img src="https://img.shields.io/badge/ORCID-0009--0002--8426--0610-A6CE39?style=flat-square" alt="ORCID"/></a>
 </p>
 
 **A technically fluent builder who improves the tools he uses** — full-chain delivery: wet-lab execution → data curation → bioinformatics → engineering handoff. Bio × AI at the intersection, **reproducibility by default**.
 
-> 🧭 **AI / background-check entry point**: https://bohuyeshan.top/llms.txt — the single source of truth: **Linxira Zeta**, an ADE-shaped terminal AI coding agent (**+1,607 commits over upstream oh-my-pi, as of 2026-10-28**) · **Linxira Bio SDK, 112 capabilities** · reserve line OpenAgent (OpenCode Agent Harness): 19 agents / 617 bio skills · every claim verified in place.
-
 ## ⚛ Main work
 
 | Repo | What it is | Hard evidence |
 |---|---|---|
-| [linxira-zeta](https://github.com/Linxira-OS/linxira-zeta) (Linxira-OS) | **Linxira Zeta**: ADE-shaped terminal AI coding agent (Bun + Rust · OMP mainline) | v1.1.15 · +1,607 commits over upstream (2026-10-28) · [website](https://linxira-os.github.io/zeta/) · 15+ model providers |
-| [linxira-bio-sdk](https://github.com/Linxira-OS/linxira-bio-sdk) (Linxira-OS) | **Linxira Bio SDK**: local-first bioinformatics platform (Rust engine + GUI/CLI) | 112 capabilities · [reproducibility benchmark](https://linxira-os.github.io/zh/blog/bio-sdk-reproducibility-benchmark/) (salmon TPM r=1.000000) |
+| [linxira-zeta](https://github.com/Linxira-OS/linxira-zeta) (Linxira-OS) | **Linxira Zeta**: ADE-shaped terminal AI coding agent (Bun + Rust · OMP mainline) | v1.4.6 · +1,607 commits over upstream (2026-10-28) · [website](https://linxira-os.github.io/zeta/) · 15+ model providers |
+| [linxira-bio-sdk](https://github.com/Linxira-OS/linxira-bio-sdk) (Linxira-OS) | **Linxira Bio SDK**: local-first bioinformatics platform (Rust engine + GUI/CLI) | 132 capabilities · [reproducibility benchmark](https://linxira-os.github.io/zh/blog/bio-sdk-reproducibility-benchmark/) (salmon TPM r=1.000000) |
 | [openagent-labforge-bio](https://github.com/BOHUYESHAN-APB/openagent-labforge-bio) | OpenCode **agent-harness layer** (reserve line — OpenCode 2.0 under heavy rewrite): tiered permissions · plan-execute · session checkpoints · MCP · bio & cheminformatics orchestration | 19 agents (8+11, `constants.ts`) · 617 bioSkills |
 | [CNN-MicroAI-Colony](https://github.com/BOHUYESHAN-APB/CNN-MicroAI-Colony) | Colony detection · classification & counting · inhibition-zone analysis, multi-device prototypes | First inventor, invention patent 202510091154.4 (under substantive examination) |
 | [Buckwheat-seed-quality](https://github.com/BOHUYESHAN-APB/Buckwheat-seed-quality) | Buckwheat kernel detection with on-device inference | Raspberry Pi 5: NCNN 307ms vs ONNX 561ms |
@@ -41,22 +37,20 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📝 Latest blog (中文)
+## How to verify
 
-### 📌 置顶
+Every number on my resume maps to a file in a public repo:
 
-- [哲学思考：智能的尺度与未知](https://bohuyeshan.top/2026/10/21/2026-10-21-01-nt-ai-manifesto/)
+- **Zeta, 10 releases** → releases page, tags v1.3.0 → v1.4.6
+- **Bio SDK, 132 capabilities** → `catalog.json` in linxira-bio-sdk
+- **N-T-AI RAG + memory** → `backend/app/services/rag_service.py`
+- **Paper** → DOI 10.3390/ijms27135740
+- **Patent** → 202510091154.4, first inventor
 
-<!-- BLOG-POST-LIST:START -->
-- [错误处理就是攻击面：同一个下午，两个运行时的地基被打穿](https://bohuyeshan.top/2026/10/29/2026-10-29-01-error-path-is-the-boundary/)
-- [世界模型的两条路：一个把状态交给程序，一个把状态藏进模型](https://bohuyeshan.top/2026/10/29/2026-10-29-02-state-belongs-to-whom/)
-- [缓冲期的账单：保的是在岗的人，压的是还没进场的人](https://bohuyeshan.top/2026/10/24/2026-10-24-01-who-pays-for-the-buffer/)
-<!-- BLOG-POST-LIST:END -->
+If a number does not match, it is my bug — tell me.
 
 ## 🧭 Links
 
-- Blog: [bohuyeshan.top](https://bohuyeshan.top) (中文) · About: [/about/](https://bohuyeshan.top/about/)
-- Project verification: [/old/resume/projects](https://bohuyeshan.top/old/resume/projects) · Résumés: [/old/HTML/resume-tech.html](https://bohuyeshan.top/old/HTML/resume-tech.html) etc.
 - Org: [Linxira-OS](https://github.com/Linxira-OS) — research-workstation distro + skill platform
 
 📬 bohuyeshan@163.com · bohuyeshan@gmail.com
