@@ -56,9 +56,9 @@ If a number does not match, it is my bug — tell me.
 - [哲学思考：智能的尺度与未知](https://bohuyeshan.top/2026/10/21/2026-10-21-01-nt-ai-manifesto/)
 
 <!-- BLOG-POST-LIST:START -->
+- [谁替你打开电脑：Agent 入口之争的完整地图](https://bohuyeshan.top/2026/11/01/2026-11-01-01-who-opens-your-computer/)
 - [错误处理就是攻击面：同一个下午，两个运行时的地基被打穿](https://bohuyeshan.top/2026/10/29/2026-10-29-01-error-path-is-the-boundary/)
 - [世界模型的两条路：一个把状态交给程序，一个把状态藏进模型](https://bohuyeshan.top/2026/10/29/2026-10-29-02-state-belongs-to-whom/)
-- [缓冲期的账单：保的是在岗的人，压的是还没进场的人](https://bohuyeshan.top/2026/10/24/2026-10-24-01-who-pays-for-the-buffer/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧭 Links
