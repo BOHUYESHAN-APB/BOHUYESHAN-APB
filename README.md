@@ -56,9 +56,9 @@ If a number does not match, it is my bug — tell me.
 - [哲学思考：智能的尺度与未知](https://bohuyeshan.top/2026/10/21/2026-10-21-01-nt-ai-manifesto/)
 
 <!-- BLOG-POST-LIST:START -->
+- [一天两百个提交：oh-my-pi 的机器人群](https://bohuyeshan.top/2026/11/04/2026-11-04-01-machine-crew/)
+- [机器人只在自己院子里跑：pi、omp、zeta 的三道闸门](https://bohuyeshan.top/2026/11/04/2026-11-04-02-bots-own-yard/)
 - [品味不是记忆：Command Code 的 taste 到底在算什么](https://bohuyeshan.top/2026/11/03/2026-11-03-01-taste-is-not-memory/)
-- [同一种结构，三组默认值：Pi、DSH 与 Zeta 差在哪](https://bohuyeshan.top/2026/11/03/2026-11-03-02-harness-three-defaults/)
-- [三千个 PR 的机器人：少爷怎么让 AI 自己上班](https://bohuyeshan.top/2026/11/03/2026-11-03-03-roboomp-bot/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧭 Links
