@@ -56,9 +56,9 @@ If a number does not match, it is my bug — tell me.
 - [哲学思考：智能的尺度与未知](https://bohuyeshan.top/2026/10/21/2026-10-21-01-nt-ai-manifesto/)
 
 <!-- BLOG-POST-LIST:START -->
-- [一天两百个提交：oh-my-pi 的机器人群](https://bohuyeshan.top/2026/11/04/2026-11-04-01-machine-crew/)
-- [机器人只在自己院子里跑：pi、omp、zeta 的三道闸门](https://bohuyeshan.top/2026/11/04/2026-11-04-02-bots-own-yard/)
-- [品味不是记忆：Command Code 的 taste 到底在算什么](https://bohuyeshan.top/2026/11/03/2026-11-03-01-taste-is-not-memory/)
+- [2035 年的毕业生：国家在修十年管道，企业在拧一年阀门](https://bohuyeshan.top/2026/11/17/2026-11-17-01-ten-year-pipeline-one-year-valve/)
+- [我们为什么总在种同一个番茄：单一品种、病毒与 AI 的边界](https://bohuyeshan.top/2026/11/16/2026-11-16-01-monoculture-and-ai/)
+- [三个信号，一个病灶：从“宿舍研究生”到“降级保研”](https://bohuyeshan.top/2026/11/14/2026-11-14-03-three-signals-one-disease/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧭 Links
